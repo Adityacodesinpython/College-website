@@ -1,1 +1,1 @@
-# Please check "master" branch!
+# Please check the "master" branch!
